@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<hicksal>
+	
+	<title>Alex's Book Site</title>
+	<sName sNumber="991 414 949" sProgram="Computer Programmer">Alex Hicks</sName>
+	
+	<book bookLink="https://www.chapters.indigo.ca/en-ca/books/a-game-of-thrones-a/9780553381689-item.html?ikwid=a+game+of+thrones&amp;ikwsec=Home&amp;ikwidx=0">
+		<bookName bookImage="_css/images/GameOfThrones.png">A Game of Thrones</bookName>
+		<bookPlot genre="Fantasy">
+In the game of thrones, you win or you die.As Warden of the north, Lord Eddard Stark counts it a curse when King 
+Robert bestows on him the office of Hand.  His honour weighs him down at court where a true man does what he will, 
+not what he must. . . and a dead enemy is a thing of beauty.  The old gods have no power in the south, Stark's 
+family is split, and there is treachery at court.  Worse, a vengeance mad boy has grown to maturity in exile in the 
+Free Cities beyond the sea.  Heir of the mad Dragon King deposed by Robert, he claims the Iron Throne.
+		</bookPlot>
+		<authorName>George R. R. Martin</authorName>
+		<publisherName>HarperCollins</publisherName>
+		<currentPrice>$19.00 CAD</currentPrice>
+		<bookReview>
+Even for someone who has watched the HBO series, George R.R. Martin’s Game of Thrones is an engaging and enjoyable read! The strength of Martin’s 
+writing shines through in these pages. Each chapter is well-crafted. You know exactly how to picture the setting and you feel the desires and discontent of 
+each chapter’s (POV) character. Watching how Martin develops characters, with all their flaws, keeps the story going as much or than the ‘game of thrones.’ 
+If you’re looking for new information in the book; however, you’re not likely to discover much. Definitely nothing that one could really classify as a surprise. 
+In fact, it distracted me (for a while) that the two were so remarkably similar (scenes, dialogue, action all seemed to match). When there was a small 
+conflict with the series, I found myself noting the difference. This often had to do with the age of the characters (they are younger in the book) or the 
+description of a few of the characters such as Tyrion. In the end, however, I was swept up in this epic story! I liked the pace produced by the shifting 
+perspectives. The one drawback to this approach (for me) came at the end. It somehow didn’t feel like I’d finished anything. The last chapter was a good 
+one, but because there are so many perspectives and everything is still in motion, (despite the deaths) you don’t feel that anything has really ended. In fact 
+this is true; the ending of book 1 is really just the beginning of Martin’s epic. 4.5 stars - J.L. Sutton - Goodreads user
+		</bookReview>
+	</book>
+	
+		
+	<book bookLink="https://www.chapters.indigo.ca/en-ca/books/elantris-tenth-anniversary-authors-definitive/9780765381026-item.html?ikwid=elantris&amp;ikwsec=Books&amp;ikwidx=0">
+		<bookName bookImage="_css/images/Elantris.png">Elantris</bookName>
+		<bookPlot genre="Fantasy">
+       Elantris was the city of the gods.  What power could have cursed it?
+       RAODEN, prince of Arelon, was loved by all, including the princess he'd never met.  Where has he gone?
+       HRATHEN, high priest of Fjordell, will convert the people of Arelon or kill them.  How will he decide?
+       SARENE, princess of Teod, was a widow before she was ever married.  Who can stand against her?		
+		</bookPlot>
+		<authorName>Brandon Sanderson</authorName>
+		<publisherName>Tor Books</publisherName>
+		<currentPrice>$10.99 CAD</currentPrice>
+		<bookReview>
+I really enjoyed this! Didn't quite sweep me away as much as Mistborn did, but it was still a solid and satisfying read. It was rather slow in the beginning 
+and had a good deal of build-up as the world and three main characters were introduced, but once all three story lines were thoroughly intertwined 
+things started to get really really good! The mystery about what happened to Elantris was super compelling, and even though I preferred some 
+characters to others, I was invested in all of their stories and did really like how everything came together in the end. Overall, this was a solid and 
+creative fantasy novel with a slower beginning that pays off in the end! I would still recommend the Mistborn trilogy over this, but if you loved those 
+books and want more Sanderson, this one is worth a read! - Kat O'Keeffe - Goodreads user
+		</bookReview>
+	</book>
+	
+	<book bookLink="https://www.chapters.indigo.ca/en-ca/books/the-name-of-the-wind/9780756405892-item.html?ikwid=name+of+the+wind&amp;ikwsec=Books&amp;ikwidx=0">
+		<bookName bookImage="_css/images/NameOfTheWind.png">The Name of the Wind</bookName>
+		<bookPlot genre="Fantasy">
+My name is Kvothe. I have stolen princesses back from sleeping barrow kings. I burned down the town of Trebon. 
+I have spent the night with Felurian and left with both my sanity and my life. I was expelled from the University 
+at a younger age than most people are allowed in. I tread paths by moonlight that others fear to speak of during day. 
+I have talked to Gods, loved women, and written songs that make the minstrels weep. You may have heard of me.
+		</bookPlot>
+		<authorName>Patrick Rothfuss</authorName>
+		<publisherName>DAW Books</publisherName>
+		<currentPrice>$19.50 CAD</currentPrice>
+		<bookReview>
+I don't have words adequate enough to express how much I enjoyed this book. Kvothe is now one of my all-time favorite characters. The world Patrick Rothfuss 
+has created is so vivid and rich and well-imagined. I ate this book up because it was SO DARN GOOD!!! Seriously, no coherent and structured review here 
+because I am just gushing over how fantastic this book is. If you even remotely enjoy fantasy books (and especially if you don't think you like fantasy) go read 
+this book now! 5/5 stars and a contender for my favorite read of 2015. - Maxwell - Goodreads user
+		</bookReview>
+	</book>
+	
+	<book bookLink="https://www.chapters.indigo.ca/en-ca/books/the-martian-mass-market-mti/9781101905005-item.html?ikwid=the+martian&amp;ikwsec=Books&amp;ikwidx=0">
+		<bookName bookImage="_css/images/Martian.png">The Martian</bookName>
+		<bookPlot genre="Science Fiction">
+Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. Now, he's sure he'll be the 
+first person to die there. After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, 
+Mark finds himself stranded and completely alone with no way to even signal Earth that he’s alive—and even if he could 
+get word out, his supplies would be gone long before a rescue could arrive. Chances are, though, he won't have time 
+to starve to death. The damaged machinery, unforgiving environment, or plain-old "human error" are much more likely 
+to kill him first. But Mark isn't ready to give up yet. Drawing on his ingenuity, his engineering skills—and a relentless, 
+dogged refusal to quit—he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his 
+resourcefulness be enough to overcome the impossible odds against him?		
+		</bookPlot>
+		<authorName>Andy Weir</authorName>
+		<publisherName>Crown Publishing Group</publisherName>
+		<currentPrice>$12.99 CAD</currentPrice>
+		<bookReview>
+This book was fantastic! A thrilling survival story with a hearty dose of humor. The main character Mark was such a smartass and I LOVED IT. The voice 
+and the premise hooked me in right away and kept me thoroughly engaged the whole time. My only real issues were that some of the minor characters 
+didn't really stand out as much as they could've, and some of the science heavy bits were a little hard to follow and felt info-dumpy at times. But the 
+human aspect--the heart of the story--was totally on point, and for the most part I just had a great time reading this!
+Overall, this book was exciting and fun and oh man, am I excited for the movie! I would definitely recommend this to anyone who likes survival stories 
+or funny thrillers or sci-fi with an emphasis on the sci! - Kat O'Keeffe - Goodreads User
+		</bookReview>
+	</book>
+</hicksal>

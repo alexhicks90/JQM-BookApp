@@ -1,0 +1,38 @@
+header, footer {
+	text-align: center;
+}
+
+footer {
+	
+	position: absolute;
+	bottom: 0px;
+}
+
+nav a{
+	width: 22%;
+	text-align: center;
+}
+
+#book-navbar a {
+	width: 17%;
+}
+
+#book-data {
+	width: 60%;
+	text-align: center;
+}
+
+#book-data p {
+	text-align: left;
+}
+
+#book-image {
+	width: 40%;
+	text-align:center;
+	margin-top: 50px;
+}
+
+.ui-grid-a {
+	margin: 10px;
+}
+

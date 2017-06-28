@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!-- Alex Hicks - 991 414 949 -->
+<html>
+<head>
+	<title>Assignment 2 - hicksal</title>
+	<meta charset="utf-8" />
+	
+	<link rel="stylesheet" href="css/jquery.mobile.css"/>
+	<link rel="stylesheet" href="css/hicksal.css"/>
+	<link rel="stylesheet" href="css/main.css"/>
+	
+	<script src="js/jquery.js"></script>
+	<script src="js/jquery.mobile.js"></script>		
+	<script src="js/script.js"></script>
+</head>
+
+<body>
+<!-- Home page -->
+<div data-role="page" id="home">
+	<header data-role="header"></header>
+	
+	<section class="ui-content" role="main">
+		<ul id="bookList" data-role="listview" data-inset="true"></ul>		
+	</section>
+	
+	<section data-role="navbar" id="home-navbar" class="ui-bar-a">
+	</section></br>
+	
+	<footer data-role="footer"></footer>
+</div>
+
+<!-- Book page -->
+<div data-role="page" id="bookPage">
+	<header data-role="header"></header>
+	
+	<section class="ui-grid-a" role="main">
+		
+		<div id="book-data" class="ui-block-a"></div>
+		
+		<div id="book-image" class="ui-block-b"></div>
+	</section>
+	
+	<section class="ui-grid-b" id="bookLinks">
+		<div id="indigoLink" class="ui-block-a"></div>
+		<div id="homeLink" class="ui-block-b"></div>
+		<div id="reviewLink" class="ui-block-c"></div>
+	</section>
+	
+	<footer data-role="footer"></footer>
+</div>
+
+<div data-role="page" id="review">
+</div>
+
+</body>
+</html>
